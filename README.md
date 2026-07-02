@@ -1,3 +1,1 @@
-Weather API: https://content.meteoblue.com/en/business-solutions/weather-apis
- and 
-Weather data provider: https://www.meteoblue.com
+ https://github-stats-extended.vercel.app/api?username=octocat&theme=radical
